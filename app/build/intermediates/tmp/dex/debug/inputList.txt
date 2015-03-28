@@ -1,0 +1,5 @@
+/home/alfredo/AndroidStudioProjects/Rawr/app/build/intermediates/classes/debug
+/home/alfredo/AndroidStudioProjects/Rawr/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-3f04d873bfdd69003fea334b0d7434638bf73249.jar
+/home/alfredo/AndroidStudioProjects/Rawr/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ec81964b91702f444b747d1f2cdf9a1fd92c402b.jar
+/home/alfredo/AndroidStudioProjects/Rawr/app/build/intermediates/pre-dexed/debug/classes-3024f2095acbc55f9a4099eaf5f3ba4ef861bb79.jar
+/home/alfredo/AndroidStudioProjects/Rawr/app/build/intermediates/pre-dexed/debug/classes-0daae0930c7dfc1f039f013d1f8b4ef0a611385b.jar
